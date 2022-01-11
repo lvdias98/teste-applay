@@ -7,6 +7,11 @@ Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamo
   - Adicionar máscara nos campos CPF e Celular (Ex: https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html)
   - Adicionar o checkbox para bootstap nas habilidades
   - Validar formulário com JS
+    - O CPF deve ser válido
+    - Verificar se o nome está completo (Deve conter no mínimo nome e sobrenome)
+    - Verificar se o candidato tem mais de 16 anos de idade
+    - O candidato deve ter no mínimo uma habilidade
+    - Todos os campos são obrigatórios
   - Persistência de dados (Ex: Armazenamento no local storage)
   - Ajustar a funcionalidade de remover
   - Subir o resultado final no seu GitHub (deixar público)
@@ -19,5 +24,4 @@ Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamo
 ## Layout de exemplo com bootstrap
 ![alt text](https://github.com/lvdias98/teste-applay/blob/master/assets/lista.png)
 ![alt text](https://github.com/lvdias98/teste-applay/blob/master/assets/modal.png)
-
 
