@@ -17,7 +17,7 @@ Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamo
   - Utilizar estilos próprios
 
 ## Layout de exemplo com bootstrap
-![alt text](https://imgur.com/dVmkO3s)
-![alt text](https://imgur.com/EC2t5un)
+![alt text](https://github.com/lvdias98/teste-applay/blob/master/assets/lista.png)
+![alt text](https://github.com/lvdias98/teste-applay/blob/master/assets/modal.png)
 
 
