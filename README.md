@@ -1,6 +1,6 @@
 # Teste Applay
 
-Chegou uma boa oportunidade para explorar seu conhecimento em Front-End. Nesta etapa, precisamos que você analise o módulo existente e ajuste algumas funcionalidades da tela utilizando seus conhecimentos.
+Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamos que você analise o App e implemente as tarefas que listamos abaixo e que consideramos essenciais. Novas funcionalidades são um grande diferencial.
 
 ## Tarefas
   - Melhorar o layout com bootstrap (Ex: https://getbootstrap.com/)
