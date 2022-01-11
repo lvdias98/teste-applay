@@ -1,0 +1,16 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.main {
+  
+}
+
+.main table {
+  margin-top: 32px;
+}
+
+.main table thead {
+  font-weight: bold;
+}
