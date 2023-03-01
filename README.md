@@ -7,7 +7,7 @@ Parabéns, você foi selecionado(a) para a próxima fase. Nesta etapa, precisamo
   - Adicionar máscara nos campos CPF e Celular (Ex: https://igorescobar.github.io/jQuery-Mask-Plugin/docs.html)
   - Adicionar o checkbox para bootstap nas habilidades
   - Validar formulário com JS
-    - O CPF deve ser válido
+    - O CPF deve ser válido e único
     - Verificar se o nome está completo (Deve conter no mínimo nome e sobrenome)
     - Verificar se o candidato tem mais de 16 anos de idade
     - O candidato deve ter no mínimo uma habilidade
