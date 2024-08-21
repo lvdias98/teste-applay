@@ -1,3 +1,4 @@
+//ler do local storage aqui
 let candidatos = [
   { id: "1", cpf: "42604610876", nome: "Lucas Vieira Dias", celular: "11957770782", email: "lvdias98@gmail.com", sexo: "Masculino", nascimento: "01/12/1998", skills: { html: true, css: true, js: true } },
   { id: "2", cpf: "42604610876", nome: "Nelson Santana", celular: "11957770782", email: "lvdias98@gmail.com", sexo: "Masculino", nascimento: "01/12/1998", skills: { html: true, css: true, js: true } },
@@ -86,6 +87,7 @@ function salvar() {
     candidatos.push(candidato);
   }
 
+  //salvar a lista de canditatos atualizada no local storage
 
   fecharModal();
   listarCandidatos();
@@ -159,7 +161,6 @@ function listarCandidatos() {
 }
 
 listarCandidatos();
-
 
 //Trecho resposável pelo filtro da tabela
 $(document).ready(function () {
