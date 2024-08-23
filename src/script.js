@@ -88,6 +88,7 @@ function salvar() {
   }
 
   //salvar a lista de canditatos atualizada no local storage
+  
 
   fecharModal();
   listarCandidatos();
